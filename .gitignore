@@ -107,6 +107,7 @@ venv.bak/
 input
 output
 trained_models
+*.zip
 
 # tmp files
 .tmp
