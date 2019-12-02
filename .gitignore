@@ -111,3 +111,5 @@ trained_models
 
 # tmp files
 .tmp
+
+!.gitkeep
