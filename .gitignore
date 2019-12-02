@@ -104,9 +104,9 @@ venv.bak/
 .mypy_cache/
 
 # data
-input
-output
-trained_models
+input/*
+output/*
+trained_models/*
 *.zip
 
 # tmp files
